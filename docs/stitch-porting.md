@@ -14,7 +14,7 @@ Workflow para agentes al traer contenido del [proyecto Stitch 901467316624180888
 | Registro de Finca | `#/mi-finca` | Placeholder |
 | Simulador Climático | `#/simular` | Placeholder |
 | Asistente CafIA | `#/asistente` | Placeholder |
-| Análisis de Riesgo | — | Sin ruta (fase 2+) |
+| Análisis de Riesgo | `#/riesgos` | Vista CAF-102 |
 | Plan de Acción | — | Sin ruta |
 | Recomendaciones Preventivas | — | Sin ruta |
 | CafIA Logo | — | Referencia de marca |
